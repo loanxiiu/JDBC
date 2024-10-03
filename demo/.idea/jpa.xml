@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="reLastEntityCreationPackage" value="src/main/java/detam" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7e919acd-ae3e-46a6-9d24-90c4dda91f11__nhasach" />
+  </component>
+  <component name="JpaPluginProjectSettings" reExcludeTablePrefixes="" reExcludeColumnPrefixes="" reExcludeTableSuffixes="" reExcludeColumnSuffixes="">
+    <option name="entityNameTemplate" />
+    <option name="scaffoldingLanguage" />
+  </component>
+</project>
